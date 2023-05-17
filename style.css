@@ -65,3 +65,41 @@ body{
 .container__caixa{
     margin:0 6em;
 }
+
+.secundario__imagem{
+    width: 80%;
+}
+
+.secundario{
+    align-items: center;
+    margin: 0 10em;
+}
+
+.descricao__titulo{
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--BrancoP);
+    margin-bottom: 0.1em;
+}
+
+.descricao__texto{
+    color: var(--CinzaL);
+}
+
+.secundario__botao{
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.container__descricao{ 
+    padding: 2em;
+}
+
+.dispositivos__lista{
+    display: flex;
+    justify-content: center;
+}
+
+.dispositivos{
+    text-align: center;
+}
